@@ -69,6 +69,7 @@ function fCheckoutSubmodule() {
     		npm install -D --save postcss-cli
     	fi
     fi
+    npm list autoprefixer postcss-cli
 }
 
 # fMergeContent:
