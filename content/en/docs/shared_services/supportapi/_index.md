@@ -10,4 +10,4 @@ The Support Portal API offers a way for Axway customers to self-service their su
 
 It provides for building applications to manage support cases, business service requests, and customer enhancement requests. Supplemental endpoints allow for retrieving information about the accessible support accounts as well as purchased or subscribed-to products and services.
 
-Access the API at [Support Portal API](https://apis-developer.axway.com/) via Axway.
+Access the API at [Support Portal API](https://apis-developer.axway.com/).
